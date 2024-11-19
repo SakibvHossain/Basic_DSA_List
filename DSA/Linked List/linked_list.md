@@ -1,5 +1,3 @@
-# Let's generate a markdown file for Sumaiya to upload to GitHub.
-markdown_content = """
 # Linked List Problems for Job Interviews
 
 This repository contains a curated list of Linked List problems from LeetCode, suitable for preparing for job interviews. The problems are categorized by difficulty level.
@@ -70,17 +68,4 @@ This repository contains a curated list of Linked List problems from LeetCode, s
 
 ---
 
-## Contribute
-If you know other linked list problems that are great for interviews, feel free to create a pull request or open an issue.
-
----
-
 Happy Coding! 🚀
-"""
-
-# Save this to a markdown file
-file_path = "/mnt/data/LinkedList_Problems.md"
-with open(file_path, "w") as file:
-    file.write(markdown_content)
-
-file_path

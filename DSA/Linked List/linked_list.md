@@ -4,6 +4,15 @@ This repository contains a curated list of Linked List problems from LeetCode, s
 
 ---
 
+# Basic Concepts
+Before diving deeper, ensure you are confident with these basic operations:
+
+1. **Traversal:** Iterating through nodes.  
+2. **Insertion:** At the beginning, end, and middle.  
+3. **Deletion:** Remove by value or position.  
+4. **Search:** Find an element.  
+5. **Reverse:** Iteratively and recursively.  
+
 ## Easy Level
 1. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
     - **Description**: Reverse a singly linked list.
